@@ -5,18 +5,18 @@
 🌱 I am passionate about developing and designing applications and systems that could bring a positive impact on the society </br>
 🎓 Pursuing Masters in Information Systems from Northeastern University, Boston
 
-### Programming Languages:
+### <i>Programming Languages:</i>
 - Java
 - JavaScript
 - Python
 - Cobol
 - RPGLE
 
-### Tech Stack:
-- Web Technologies: HTML5, CSS, JavaScript, ReactJS, AngularJS, NodeJS, VanillaJS, SASS, XML, JSON, MaterialUI
-- Databases: MongoDB, NoSQL, AS400
-- Version Control: Git, GitHub
-- Tools: Eclipse, NetBeans, IntelliJ, Git, SQL Server Management Studio, IBM I series, Visual Studio Code, Jupyter Notebook
+### <i>Tech Stack:</i>
+- <i>Web Technologies:</i> HTML5, CSS, JavaScript, ReactJS, AngularJS, NodeJS, VanillaJS, SASS, XML, JSON, MaterialUI
+- <i>Databases:</i> MongoDB, NoSQL, AS400
+- <i>Version Control:</i> Git, GitHub
+- <i>Tools:</i> Eclipse, NetBeans, IntelliJ, Git, SQL Server Management Studio, IBM I series, Visual Studio Code, Jupyter Notebook
 
 📫 You can reach me at - vise.s@northeastern.edu
 <!--
