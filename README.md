@@ -16,6 +16,7 @@
 - Web Technologies: HTML5, CSS, JavaScript, ReactJS, AngularJS, NodeJS, VanillaJS, SASS, XML, JSON, MaterialUI
 - Databases: MongoDB, NoSQL, AS400
 - Version Control: Git, GitHub
+- Tools: Eclipse, NetBeans, IntelliJ, Git, SQL Server Management Studio, IBM I series, Visual Studio Code, Jupyter Notebook
 
 📫 You can reach me at - vise.s@northeastern.edu
 <!--
