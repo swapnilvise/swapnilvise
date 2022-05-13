@@ -1,6 +1,6 @@
 ### Hello there I'm your friendly neighborhood techie, Swapnil Vise👋
 
-### About me 👨🏻‍💻
+### <i>About me</i> 👨🏻‍💻
 ⚡ A self-driven, enthusiastic, reliable and focused individual with an agile mind, strong problem solving and organizational skills </br>
 🌱 I am passionate about developing and designing applications and systems that could bring a positive impact on the society </br>
 🎓 Pursuing Masters in Information Systems from Northeastern University, Boston
