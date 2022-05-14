@@ -18,7 +18,6 @@
 - <i>Version Control:</i> Git, GitHub
 - <i>Tools:</i> Eclipse, NetBeans, IntelliJ, Git, SQL Server Management Studio, IBM I series, Visual Studio Code, Jupyter Notebook
 
-📫 You can reach me at - vise.s@northeastern.edu
 <!--
 **swapnilvise/swapnilvise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
