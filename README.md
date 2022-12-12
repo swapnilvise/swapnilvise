@@ -9,14 +9,14 @@
 - Java
 - JavaScript
 - Python
-- Cobol
-- RPGLE
+- Swift
 
 ### <i>Tech Stack:</i>
 - <i>Web Technologies:</i> HTML5, CSS, JavaScript, ReactJS, AngularJS, NodeJS, VanillaJS, SASS, XML, JSON, MaterialUI
-- <i>Databases:</i> MongoDB, NoSQL, AS400
-- <i>Version Control:</i> Git, GitHub
-- <i>Tools:</i> Eclipse, NetBeans, IntelliJ, Git, SQL Server Management Studio, IBM I series, Visual Studio Code, Jupyter Notebook
+- <i>Cloud:</i> AWS, EC2, S3, Elastic Beanstalk, CICD, ElasticCache, SQS & SNS, Route 53
+- <i>Databases:</i> MongoDB, PostGreSql , NoSQL
+- <i>Version Control:</i> GitHub
+- <i>Tools:</i> Eclipse, NetBeans, IntelliJ, Git, SQL Server Management Studio, IBM I series, Visual Studio Code, Jupyter Notebook, Xcode
 
 <!--
 **swapnilvise/swapnilvise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
